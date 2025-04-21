@@ -1,0 +1,7 @@
+Skyward 150 tripod storage tray for 1 1/4" Eyepieces.
+
+Print with 3 walls 15% infill. Will need to be printed on a 300mm print bed at minimum.
+
+use m3x4x5 heatset inserts in the tripod storage mount.
+
+M3x20 shcs to attach mounts to storage tray
