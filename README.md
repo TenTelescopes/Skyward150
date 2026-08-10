@@ -22,7 +22,7 @@ You may \*\*not\*\*:
 
 
 
-For commercial inquiries: hello@tentelescopes.com
+For commercial inquiries: admin@tentelescopes.com
 
 
 
