@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward150-students-observing.jpg" alt="Students at Centennial CVI in Guelph observing with Skyward 150 telescopes" width="720">
+  <img src="images/skyward150-bryan.jpg" alt="The founder of Ten Telescopes with a purple and orange Skyward 150, with Skyward 200s behind" width="720">
 </p>
 
 <h1 align="center">Skyward 150</h1>
