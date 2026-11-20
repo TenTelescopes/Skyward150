@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward150-hero.jpg" alt="Skyward 150 3D printed telescope in blue and pink in front of the Moon" width="720">
+  <img src="images/skyward150-students-observing.jpg" alt="Students at Centennial CVI in Guelph observing with Skyward 150 telescopes" width="720">
 </p>
 
 <h1 align="center">Skyward 150</h1>
