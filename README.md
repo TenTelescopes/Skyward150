@@ -52,10 +52,22 @@ The full build video walks through every step: print finishing, threaded inserts
 
 ## Gallery
 
+Skywards out under the sky, in classrooms and on the bench.
+
 <p align="center">
-  <img src="images/skyward150-build-front.jpg" alt="Printed Skyward 150 Compact in pink and teal, front view" width="32%">
-  <img src="images/skyward150-build-side.jpg" alt="Printed Skyward 150 Compact in pink and teal, side view in the workshop" width="32%">
-  <img src="images/skyward150-night.jpg" alt="Rendering of the Skyward 150 under a starry sky" width="32%">
+  <img src="images/gallery/skyward150-park.jpg" alt="Three Skyward 150s set up on the grass in a park" width="32%">
+  <img src="images/gallery/skyward150-purple-orange.jpg" alt="A purple and orange Skyward 150 with its builder" width="32%">
+  <img src="images/gallery/skyward150-students-observing.jpg" alt="Students at Centennial CVI in Guelph observing with Skyward 150s" width="32%">
+</p>
+<p align="center">
+  <img src="images/gallery/skyward150-snowy-stargazing.jpg" alt="A snowy public stargazing night with Skyward 150s" width="32%">
+  <img src="images/gallery/skyward150-candy-floss-workshop.jpg" alt="Candy Floss, a pink and mint Skyward 150, in the workshop" width="32%">
+  <img src="images/gallery/skyward150-fitting-focuser.jpg" alt="Fitting the focuser and red dot finder to a Skyward 150 Compact" width="32%">
+</p>
+<p align="center">
+  <img src="images/gallery/skyward150-compact-bench.jpg" alt="A Skyward 150 Compact tube coming together on the bench" width="32%">
+  <img src="images/gallery/skyward150-pink-teal-front.jpg" alt="Printed Skyward 150 Compact in pink and teal, front view" width="32%">
+  <img src="images/gallery/skyward150-pink-teal-side.jpg" alt="Printed Skyward 150 Compact in pink and teal, side view in the workshop" width="32%">
 </p>
 
 Built one? Share it in **#skyward-150-build-logs** on [Discord](https://discord.gg/kwv2z3wfGd). We'd love to see it.
