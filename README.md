@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward150-bryan.jpg" alt="The founder of Ten Telescopes with a purple and orange Skyward 150, with Skyward 200s behind" width="720">
+  <img src="images/skyward150-candy-floss.jpg" alt="Terry looking over Candy Floss, a pink and mint Skyward 150, in the workshop" width="720">
 </p>
 
 <h1 align="center">Skyward 150</h1>
