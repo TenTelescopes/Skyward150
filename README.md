@@ -20,6 +20,8 @@
 
 The Skyward 150 was our first Skyward. It's built from durable, easy to find and affordable materials, and the printed parts need no supports. It's a good scope for the Moon, planets, star clusters and Messier objects.
 
+It's also forever upgradeable. You can start with the visual Skyward 150, turn it into a Skyward 150 Astrograph later, and go back to visual if you want.
+
 | | |
 |---|---|
 | **Design** | Newtonian reflector, modified Dobsonian on a tripod |
