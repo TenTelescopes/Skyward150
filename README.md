@@ -72,13 +72,20 @@ Skywards out under the sky, in classrooms and on the bench.
 
 ### The Skyward 150 Astrograph
 
-Indigo, our Skyward 150 Astrograph, with the [Ten Telescopes 2" focuser](https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser) and an autofocuser. The early tube design is in [`STL Files/Skyward 150 Astrograph OTA (alpha)`](STL%20Files/Skyward%20150%20Astrograph%20OTA%20(alpha)).
+The Astrograph version is built for long exposure astrophotography, with the [Ten Telescopes 2" focuser](https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser) and room for an autofocuser. The early tube design is in [`STL Files/Skyward 150 Astrograph OTA (alpha)`](STL%20Files/Skyward%20150%20Astrograph%20OTA%20(alpha)).
 
 <p align="center">
   <img src="images/gallery/skyward150-indigo-dusk.jpg" alt="Setting up Indigo, a purple Skyward 150 Astrograph, at dusk" width="32%">
   <img src="images/gallery/skyward150-indigo-night.jpg" alt="Indigo imaging under the stars by red light" width="32%">
-  <img src="images/gallery/skyward150-indigo-m101.jpg" alt="M101, the Pinwheel Galaxy, through Indigo" width="32%">
+  <img src="images/gallery/skyward150-astrograph-vasu-rig.jpg" alt="Vasu Maini's Skyward 150 Astrograph in its stealthy black colour scheme" width="32%">
 </p>
+<p align="center">
+  <img src="images/gallery/skyward150-astrograph-m51-vasu.jpg" alt="M51, the Whirlpool Galaxy, with a Skyward 150 Astrograph. Image: Vasu Maini" width="32%">
+  <img src="images/gallery/skyward150-astrograph-m81-m82-vasu.jpg" alt="M81 and M82 with a Skyward 150 Astrograph. Image: Vasu Maini" width="32%">
+  <img src="images/gallery/skyward150-astrograph-rosette-vasu.jpg" alt="The Rosette Nebula in HSO with a Skyward 150 Astrograph. Image: Vasu Maini" width="32%">
+</p>
+
+Deep sky images by Vasu Maini. Read how he went from the visual Skyward 150 to these in [Built, Not Bought](https://www.tentelescopes.com/post/built-not-bought).
 
 Built one? Share it in **#skyward-150-build-logs** on [Discord](https://discord.gg/kwv2z3wfGd). We'd love to see it.
 
